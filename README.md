@@ -5,9 +5,10 @@ A Modular badge-in system that uses a device to scan a QR code. Phones allow use
 Frontend:
 - iOS/Android - Expo (React Native)
 - Tablet - SwiftUI
-- Admin - NextJS
-Backend: NestJS
-Database: MongoDB (Firebase)
-Authentication: Clerk
-Hosting: Vercel
+- Admin - NextJS <br />
+Backend: NestJS <br />
+Database: MongoDB (Firebase) <br />
+Authentication: Clerk <br />
+Hosting: Vercel <br />
+Image Shrinker: https://imageshrinker.karsonmellott.dev/ <br />
 
